@@ -1,0 +1,21 @@
+.jumbotron h1 {
+    font-weight: 700;
+}
+
+.jumbotron p {
+    font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+    .jumbotron {
+        text-align: center;
+    }
+
+    .jumbotron h1 {
+        font-size: 2.5rem;
+    }
+
+    .jumbotron p {
+        font-size: 1.3rem;
+    }
+}
