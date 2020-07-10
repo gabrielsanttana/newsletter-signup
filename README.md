@@ -25,7 +25,7 @@
 ```
 $ git clone https://github.com/gabrielsanttana/newsletter-signup
 $ npm install
-$ node src/server.js
+$ npm start
 ```
 
 The application will be up on http://localhost:3000
